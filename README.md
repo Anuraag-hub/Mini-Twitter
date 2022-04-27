@@ -2,6 +2,7 @@
 
 This is my first ever attempt on a full fledged web app based on the MEAN technology stack. It enables the user to sign up, authenticate and create posts that are available for all users to see. An unauthenticated user cannot create or edit posts but view all of them. LocalStorage is used for storing user authentication data.
 Deployed in AWS elastic beanstalk and mongodb maintained in a free tier mongodb cloud. Backend is maintained on NodeJs.
+Inspired by a course on Udemy, under the guidance of the legendary, Maximilian Schwarzmüller.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
 
 ## Development server
